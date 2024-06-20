@@ -1,7 +1,5 @@
 
-![Descricao da sua imagem](./thumbnail.png)
 
-![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
 
 # Indexa
 
